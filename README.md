@@ -1,4 +1,4 @@
-#  Identify relevant galaxy properties
+#  Assemble requirements for DC2 and DC3
 
 Summary -- Create a document containing the requirements for DC2 and DC3 with regard to prediction tools. The
 document will include: the list of statistics for which predictions are needed, the required accuracy of the
